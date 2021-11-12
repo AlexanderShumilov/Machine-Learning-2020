@@ -2,16 +2,17 @@
 
 ## HW1:
 
-PRACTICE 1|2|3|4.1|4.2|5.1|5.2|6|7
-Scores (0/1) 1|1|1|1|1|1|1|1|1|
-Final Practice score (weighted sum) = 12
-COMMENTS
-nan
-THEORY 1|2|3|4|5|6.1|6.2|7|8.1|8.2|9|10
-Scores (0/1) 0|0|1|1|1|1|1|1|1|1|1|nan|
-Final Theory score (sum) = 9
-COMMENTS
-(1) A should be independent of w (2) Where is b?
+1. PRACTICE 1|2|3|4.1|4.2|5.1|5.2|6|7
+ - Scores (0/1) 1|1|1|1|1|1|1|1|1|
+ - Final Practice score (weighted sum) = 12
+ - COMMENTS : nan
+2. THEORY 1|2|3|4|5|6.1|6.2|7|8.1|8.2|9|10
+- Scores (0/1) 0|0|1|1|1|1|1|1|1|1|1|nan|
+- Final Theory score (sum) = 9
+- COMMENTS :
+ -(1) A should be independent of w 
+ -(2) Where is b?
+ 
 FINAL SCORE = 21/22(24)
 
 ## HW2:
